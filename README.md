@@ -1,2 +1,2 @@
-# plugin-youtube-search
-This Chrome extension allows you to search highlighted text on YouTube using the context menu.  When you highlight text on a webpage, you can right-click and select "Search on YouTube" from the context menu to initiate a YouTube search for the highlighted text.
+# LumaLink (Chrome Extension)
+Search YouTube from any text on a webpage with our Chrome extension! Highlight text, right-click, and choose "Search on YouTube." A new tab opens instantly with your results. Try it now!
